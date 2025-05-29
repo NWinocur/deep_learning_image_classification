@@ -14,3 +14,4 @@ tensorflow[and-cuda]
 torch
 torchvision
 torchaudio
+tensorboard
